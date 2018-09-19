@@ -1,0 +1,30 @@
+{
+  "description": "materials logging",
+  "start_date": "2018-09-16",
+  "current_date": "2018-09-19",
+  "history": [{
+    "date": "2018-09-18",
+    "topic": "VSC",
+    "materials": [{
+      "type": "video",
+      "resource": "https://www.youtube.com/watch?v=7LbDp4FCrog",
+      "description": "Основы систем контроля версий"
+    }, {
+      "type": "video",
+      "resource": "https://www.youtube.com/watch?v=RbRgm6BI5Z4",
+      "description": "021. Системы контроля версий - Денис Чистяков"
+    }]
+  }, {
+    "date": "2018-09-19",
+    "topic": "VSC",
+    "materials": [{
+      "type": "video",
+      "resource": "https://www.youtube.com/watch?v=ykyERvz17LE",
+      "description": "GIT, GITHUB и BITBUCKET"
+    }, {
+      "type": "video",
+      "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&index=1&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
+      "description": "1.1 Скринкаст по Git – Введение – Что такое Git?"
+    }]
+  }]
+}
