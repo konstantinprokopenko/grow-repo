@@ -26,5 +26,13 @@
       "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&index=1&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
       "description": "1.1 Скринкаст по Git – Введение – Что такое Git?"
     }]
+  }, {
+    "date": "2018-09-20",
+    "topic": "VSC",
+    "materials": [{
+      "type": "task",
+      "resource": "https://github.com",
+      "description": "Register on Github and create repo"
+    }]
   }]
 }
