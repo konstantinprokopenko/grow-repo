@@ -34,5 +34,21 @@
       "resource": "https://github.com",
       "description": "Register on Github and create repo"
     }]
+  }, {
+    "date": "2018-09-21",
+    "topic": "Virtual Box",
+    "materials": [{
+      "type": "task",
+      "resource": "https://www.virtualbox.org/",
+      "description": "Setup Virtual Box on Windows machine"
+    }]
+  }, {
+    "date": "2018-09-21",
+    "topic": "Virtual Box/Linux",
+    "materials": [{
+      "type": "task",
+      "resource": "https://xubuntu.org/",
+      "description": "Setup Ununtu xfce"
+    }]
   }]
 }
