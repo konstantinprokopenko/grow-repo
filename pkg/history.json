@@ -48,7 +48,7 @@
     "materials": [{
       "type": "task",
       "resource": "https://xubuntu.org/",
-      "description": "Setup Ununtu xfce"
+      "description": "!Setup Ununtu xfce!"
     }]
   }]
 }
