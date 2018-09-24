@@ -50,5 +50,13 @@
       "resource": "https://xubuntu.org/",
       "description": "Setup Ununtu xfce"
     }]
+  }, {
+    "date": "2018-09-24",
+    "topic": "Virtual Box/Linux / git",
+    "materials": [{
+      "type": "task",
+      "resource": "https://git-scm.com/",
+      "description": "install git"
+    }]
   }]
 }
