@@ -58,5 +58,21 @@
       "resource": "https://git-scm.com/",
       "description": "install git"
     }]
+  }, {
+    "date": "2018-09-25",
+    "topic": "git",
+    "materials": [{
+      "type": "task",
+      "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
+      "description": "git videos 1.1-1.5"
+    }]
+  }, {
+    "date": "2018-09-26",
+    "topic": "git",
+    "materials": [{
+      "type": "task",
+      "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
+      "description": "git videos 2.1-2.8"
+    }]
   }]
 }
