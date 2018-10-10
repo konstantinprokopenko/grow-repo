@@ -1,7 +1,7 @@
 {
   "description": "materials logging",
   "start_date": "2018-09-16",
-  "current_date": "2018-09-19",
+  "current_date": "2018-10-10",
   "history": [{
     "date": "2018-09-18",
     "topic": "VSC",
@@ -81,6 +81,69 @@
       "type": "video",
       "resource": "https://www.youtube.com/watch?v=KqsWpHq6SPk&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=14",
       "description": "git videos 3.1-3.6"
+    }]
+  }, {
+    "date": "2018-10-8",
+    "topic": "git",
+    "materials": [{
+      "type": "video",
+      "resource": "https://www.youtube.com/watch?v=A9C7lJMaf1M&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=20",
+      "description": "git videos 4.1-4.11"
+    }]
+  }, {
+    "date": "2018-10-10",
+    "topic": "git",
+    "materials": [{
+      "type": "task",
+      "resource": "https://github.com/andreipadolin/grow-repo/commits/master",
+      "description": "carefully look through my latest commit, all changes that I've done."
+    }, {
+    "date": "2018-10-10",
+    "topic": "git",
+    "materials": [{
+      "type": "video",
+      "resource": "https://www.youtube.com/watch?v=uqQWLrY1q4A&index=31&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
+      "description": "git videos 5.1-6.7"
+    }]
+  }, {
+    "date": "2018-10-10",
+    "topic": "git",
+    "materials": [{
+      "type": "task",
+      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+      "description": "update sources from main repo (small hint run git fetch --all and than git merge upstream/master) try to understand what happened"
+    }]
+  }, {
+    "date": "2018-10-10",
+    "topic": "git",
+    "materials": [{
+      "type": "task",
+      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+      "description": "add any image to img folder"
+    }]
+  }, {
+    "date": "2018-10-10",
+    "topic": "html/css",
+    "materials": [{
+      "type": "task",
+      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+      "description": "add <li>Vodka</li> before Coffee in index.html"
+    }]
+  }, {
+    "date": "2018-10-10",
+    "topic": "html/css",
+    "materials": [{
+      "type": "task",
+      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+      "description": "change text style 'My second paragraph' in index.html. to BOLD"
+    }]
+  }, {
+    "date": "2018-10-10",
+    "topic": "html/css",
+    "materials": [{
+      "type": "task",
+      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+      "description": "change background color in ordered list to black, and change text color in ordered list yellow"
     }]
   }]
 }
