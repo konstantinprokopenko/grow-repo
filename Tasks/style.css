@@ -1,8 +1,12 @@
 ol {
-  color: red;
-  background-color: green;
+  color: yellow;
+  background-color: black;
 }
 
 li {
   font-weight: bold;
+}
+
+p {
+  color: bold;
 }
