@@ -3,7 +3,7 @@ ol {
   background-color: black;
 }
 
-li {
+li:hover {
   font-weight: bold;
 }
 
