@@ -2,148 +2,223 @@
   "description": "materials logging",
   "start_date": "2018-09-16",
   "current_date": "2018-10-10",
-  "history": [{
-    "date": "2018-09-18",
-    "topic": "VSC",
-    "materials": [{
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=7LbDp4FCrog",
-      "description": "Основы систем контроля версий"
-    }, {
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=RbRgm6BI5Z4",
-      "description": "021. Системы контроля версий - Денис Чистяков"
-    }]
-  }, {
-    "date": "2018-09-19",
-    "topic": "VSC",
-    "materials": [{
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=ykyERvz17LE",
-      "description": "GIT, GITHUB и BITBUCKET"
-    }, {
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&index=1&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
-      "description": "1.1 Скринкаст по Git – Введение – Что такое Git?"
-    }]
-  }, {
-    "date": "2018-09-20",
-    "topic": "VSC",
-    "materials": [{
-      "type": "task",
-      "resource": "https://github.com",
-      "description": "Register on Github and create repo"
-    }]
-  }, {
-    "date": "2018-09-21",
-    "topic": "Virtual Box",
-    "materials": [{
-      "type": "task",
-      "resource": "https://www.virtualbox.org/",
-      "description": "Setup Virtual Box on Windows machine"
-    }]
-  }, {
-    "date": "2018-09-21",
-    "topic": "Virtual Box/Linux",
-    "materials": [{
-      "type": "task",
-      "resource": "https://xubuntu.org/",
-      "description": "Setup Ununtu xfce"
-    }]
-  }, {
-    "date": "2018-09-24",
-    "topic": "Virtual Box/Linux / git",
-    "materials": [{
-      "type": "task",
-      "resource": "https://git-scm.com/",
-      "description": "install git"
-    }]
-  }, {
-    "date": "2018-09-25",
-    "topic": "git",
-    "materials": [{
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
-      "description": "git videos 1.1-1.5"
-    }]
-  }, {
-    "date": "2018-09-26",
-    "topic": "git",
-    "materials": [{
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
-      "description": "git videos 2.1-2.8"
-    }]
-  }, {
-    "date": "2018-10-4",
-    "topic": "git",
-    "materials": [{
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=KqsWpHq6SPk&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=14",
-      "description": "git videos 3.1-3.6"
-    }]
-  }, {
-    "date": "2018-10-8",
-    "topic": "git",
-    "materials": [{
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=A9C7lJMaf1M&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=20",
-      "description": "git videos 4.1-4.11"
-    }]
-  }, {
-    "date": "2018-10-10",
-    "topic": "git",
-    "materials": [{
-      "type": "task",
-      "resource": "https://github.com/andreipadolin/grow-repo/commits/master",
-      "description": "carefully look through my latest commit, all changes that I've done."
-    }, {
-    "date": "2018-10-10",
-    "topic": "git",
-    "materials": [{
-      "type": "video",
-      "resource": "https://www.youtube.com/watch?v=uqQWLrY1q4A&index=31&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
-      "description": "git videos 5.1-6.7"
-    }]
-  }, {
-    "date": "2018-10-10",
-    "topic": "git",
-    "materials": [{
-      "type": "task",
-      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
-      "description": "update sources from main repo (small hint run git fetch --all and than git merge upstream/master) try to understand what happened"
-    }]
-  }, {
-    "date": "2018-10-10",
-    "topic": "git",
-    "materials": [{
-      "type": "task",
-      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
-      "description": "add any image to img folder"
-    }]
-  }, {
-    "date": "2018-10-10",
-    "topic": "html/css",
-    "materials": [{
-      "type": "task",
-      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
-      "description": "add <li>Vodka</li> before Coffee in index.html"
-    }]
-  }, {
-    "date": "2018-10-10",
-    "topic": "html/css",
-    "materials": [{
-      "type": "task",
-      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
-      "description": "change text style 'My second paragraph' in index.html. to BOLD"
-    }]
-  }, {
-    "date": "2018-10-10",
-    "topic": "html/css",
-    "materials": [{
-      "type": "task",
-      "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
-      "description": "change background color in ordered list to black, and change text color in ordered list yellow"
-    }]
-  }]
-}
+  "history": [
+    {
+      "date": "2018-09-18",
+      "topic": "VSC",
+      "materials": [
+        {
+          "type": "video",
+          "resource": "https://www.youtube.com/watch?v=7LbDp4FCrog",
+          "description": "Основы систем контроля версий"
+        },
+        {
+          "type": "video",
+          "resource": "https://www.youtube.com/watch?v=RbRgm6BI5Z4",
+          "description": "021. Системы контроля версий - Денис Чистяков"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-19",
+      "topic": "VSC",
+      "materials": [
+        {
+          "type": "video",
+          "resource": "https://www.youtube.com/watch?v=ykyERvz17LE",
+          "description": "GIT, GITHUB и BITBUCKET"
+        },
+        {
+          "type": "video",
+          "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&index=1&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
+          "description": "1.1 Скринкаст по Git – Введение – Что такое Git?"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-20",
+      "topic": "VSC",
+      "materials": [
+        {
+          "type": "task",
+          "resource": "https://github.com",
+          "description": "Register on Github and create repo"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-21",
+      "topic": "Virtual Box",
+      "materials": [
+        {
+          "type": "task",
+          "resource": "https://www.virtualbox.org/",
+          "description": "Setup Virtual Box on Windows machine"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-21",
+      "topic": "Virtual Box/Linux",
+      "materials": [
+        {
+          "type": "task",
+          "resource": "https://xubuntu.org/",
+          "description": "Setup Ununtu xfce"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-24",
+      "topic": "Virtual Box/Linux / git",
+      "materials": [
+        {
+          "type": "task",
+          "resource": "https://git-scm.com/",
+          "description": "install git"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-25",
+      "topic": "git",
+      "materials": [
+        {
+          "type": "video",
+          "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
+          "description": "git videos 1.1-1.5"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-26",
+      "topic": "git",
+      "materials": [
+        {
+          "type": "video",
+          "resource": "https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
+          "description": "git videos 2.1-2.8"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-4",
+      "topic": "git",
+      "materials": [
+        {
+          "type": "video",
+          "resource": "https://www.youtube.com/watch?v=KqsWpHq6SPk&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=14",
+          "description": "git videos 3.1-3.6"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-8",
+      "topic": "git",
+      "materials": [
+        {
+          "type": "video",
+          "resource": "https://www.youtube.com/watch?v=A9C7lJMaf1M&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=20",
+          "description": "git videos 4.1-4.11"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-10",
+      "topic": "git",
+      "materials": [
+        {
+          "type": "task",
+          "resource": "https://github.com/andreipadolin/grow-repo/commits/master",
+          "description": "carefully look through my latest commit, all changes that I've done."
+        },
+        {
+          "date": "2018-10-10",
+          "topic": "git",
+          "materials": [
+            {
+              "type": "video",
+              "resource": "https://www.youtube.com/watch?v=uqQWLrY1q4A&index=31&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h",
+              "description": "git videos 5.1-6.7"
+            }
+          ]
+        },
+        {
+          "date": "2018-10-10",
+          "topic": "git",
+          "materials": [
+            {
+              "type": "task",
+              "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+              "description": "update sources from main repo (small hint run git fetch --all and than git merge upstream/master) try to understand what happened"
+            }
+          ]
+        },
+        {
+          "date": "2018-10-10",
+          "topic": "git",
+          "materials": [
+            {
+              "type": "task",
+              "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+              "description": "add any image to img folder"
+            }
+          ]
+        },
+        {
+          "date": "2018-10-10",
+          "topic": "html/css",
+          "materials": [
+            {
+              "type": "task",
+              "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+              "description": "add <li>Vodka</li> before Coffee in index.html"
+            }
+          ]
+        },
+        {
+          "date": "2018-10-10",
+          "topic": "html/css",
+          "materials": [
+            {
+              "type": "task",
+              "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+              "description": "change text style 'My second paragraph' in index.html. to BOLD"
+            }
+          ]
+        },
+        {
+          "date": "2018-10-15",
+          "topic": "html/css",
+          "materials": [
+            {
+              "type": "videos",
+              "resource": "https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc&index=1",
+              "description": "videos 1-7 or other on youtube"
+            }
+          ]
+        },
+        {
+          "date": "2018-10-15",
+          "topic": "html/css",
+          "materials": [
+            {
+              "type": "task",
+              "resource": "paper book",
+              "description": "Book when you have enough time"
+            }
+          ]
+        },
+        {
+          "date": "2018-10-15",
+          "topic": "html/css",
+          "materials": [
+            {
+              "type": "task",
+              "resource": "https://docs.google.com/spreadsheets/d/1Wb2bEbWSqkvTnhi_ugEq84LNQQm0BEBzTqmoegUaYGc/edit#gid=0",
+              "description": "Add your image to index.html"
+            }
+          ]
+        }
+      ]
+    }
