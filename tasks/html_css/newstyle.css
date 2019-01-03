@@ -1,10 +1,10 @@
-#first_rectangle{
+.first_rectangle{
     width: 80px;
     height: 50px;
     background: black;
 }
 
-#second_rectangle{
+.second_rectangle{
     width: 80px;
     height: 50px;
     background:rgb(245, 23, 23);
@@ -13,7 +13,7 @@
     border-radius: 10px;
 }
 
-#third_rectangle{
+.third_rectangle{
     width: 80px;
     height: 50px;
     background: seagreen;
@@ -22,7 +22,7 @@
     display: inline-block;
 }
 
-#fourth_rectangle{
+.fourth_rectangle{
     width: 80px;
     height: 50px;
     background: seagreen;
@@ -31,7 +31,7 @@
     display: inline-block;
 }
 
-#fifth_rectangle{
+.fifth_rectangle{
     width: 80px;
     height: 50px;
     display: inline-block;
